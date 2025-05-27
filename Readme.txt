@@ -1,7 +1,7 @@
 day1:what is python
 day2:data types, string
 day3: list,tuple,set, dictionary
-day4:
+day4:inbuilt string methods (upper,lower,title,swapeCase, capitalize,index,rindex,split, find,count,replace,slice)
 day5:
 day6:
 day7:
@@ -26,4 +26,3 @@ day25:
 day26:
 day27:
 day28:
-
