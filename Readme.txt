@@ -1,8 +1,9 @@
 day1:what is python
 day2:data types, string
 day3: list,tuple,set, dictionary
-day4:inbuilt string methods (upper,lower,title,swapeCase, capitalize,index,rindex,split, find,count,replace,slice)
-day5:
+day4:inbuilt string methods (upper, lower, title, swapeCase, capitalize, index,
+rindex, split, find, count, replace, slice)
+day5:list inbuilt methods(pop, index, remove, append, insert, extend, clear)
 day6:
 day7:
 day8:
