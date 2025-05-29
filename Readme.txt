@@ -4,7 +4,8 @@ day3: list,tuple,set, dictionary
 day4:inbuilt string methods (upper, lower, title, swapeCase, capitalize, index,
 rindex, split, find, count, replace, slice)
 day5:list inbuilt methods(pop, index, remove, append, insert, extend, clear)
-day6:
+day6:inbuilt method in tuple(count, index) and set{add , update, remove, pop,discard, clear,
+        set operations}
 day7:
 day8:
 day9:
