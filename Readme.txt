@@ -6,7 +6,7 @@ rindex, split, find, count, replace, slice)
 day5:list inbuilt methods(pop, index, remove, append, insert, extend, clear)
 day6:inbuilt method in tuple(count, index) and set{add , update, remove, pop,discard, clear,
         set operations}
-day7:
+day7:inbuilt method in dictionaary(add, update, pop, popItem, get, getDefault, formKeys)
 day8:
 day9:
 day10:
