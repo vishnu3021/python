@@ -7,7 +7,13 @@ day5:list inbuilt methods(pop, index, remove, append, insert, extend, clear)
 day6:inbuilt method in tuple(count, index) and set{add , update, remove, pop,discard, clear,
         set operations}
 day7:inbuilt method in dictionaary(add, update, pop, popItem, get, getDefault, formKeys)
-day8:
+day8: 1) airthmathic operators(+,-,/,//,*,%)
+        2) assignment operators (=,==)
+        3) comparision operators(>,<,>=,<=,!=)
+        4) logical operators(and, or, not)
+        5) bitwise operators  (&,|, ~,^ ,>>,<<)
+        6) identify operators(is , is not)
+        7) membership operators (in, not in)
 day9:
 day10:
 day11:
