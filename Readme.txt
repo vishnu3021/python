@@ -14,7 +14,7 @@ day8: 1) airthmathic operators(+,-,/,//,*,%)
         5) bitwise operators  (&,|, ~,^ ,>>,<<)
         6) identify operators(is , is not)
         7) membership operators (in, not in)
-day9:
+day9:conditional statements (if, elif, else)
 day10:
 day11:
 day12:
