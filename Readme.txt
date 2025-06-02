@@ -15,7 +15,7 @@ day8: 1) airthmathic operators(+,-,/,//,*,%)
         6) identify operators(is , is not)
         7) membership operators (in, not in)
 day9:conditional statements (if, elif, else)
-day10:
+day10: revised conditional  statements
 day11:
 day12:
 day13:
