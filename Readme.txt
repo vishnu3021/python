@@ -16,7 +16,7 @@ day8: 1) airthmathic operators(+,-,/,//,*,%)
         7) membership operators (in, not in)
 day9:conditional statements (if, elif, else)
 day10: revised conditional  statements
-day11:
+day11: leap year or not , type conversion this 2 topics are covered two day
 day12:
 day13:
 day14:
