@@ -17,7 +17,7 @@ day8: 1) airthmathic operators(+,-,/,//,*,%)
 day9:conditional statements (if, elif, else)
 day10: revised conditional  statements
 day11: leap year or not , type conversion this 2 topics are covered two day
-day12:
+day12: range, for loop
 day13:
 day14:
 day15:
