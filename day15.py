@@ -51,3 +51,12 @@ for i in range(n):
         print('*', end=" ")
     print()
     st=st+1
+# code7:
+n=5
+for i in range(5):
+    for j in range(5):
+        if i==0 or j==0 or j==2  or i==2 or j==4 or i==4:
+            print("*", end=" ")
+        else:
+            print("!", end=" ")
+    print()
