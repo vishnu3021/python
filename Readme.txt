@@ -20,7 +20,7 @@ day11: leap year or not , type conversion this 2 topics are covered two day
 day12: range, for loop
 day13: for Loop practice, while loop
 day14: Break| continue | Pass| Nested Loop
-day15: Nested Loop | star patreen problems
+day15: Nested Loop | star patreen problems ...
 day16:
 day17:
 day18:
