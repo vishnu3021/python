@@ -21,7 +21,7 @@ day12: range, for loop
 day13: for Loop practice, while loop
 day14: Break| continue | Pass| Nested Loop
 day15: Nested Loop | star patreen problems ...
-day16:
+day16:patterns and Numbers in python
 day17:
 day18:
 day19:
