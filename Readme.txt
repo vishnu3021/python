@@ -23,7 +23,7 @@ day14: Break| continue | Pass| Nested Loop
 day15: Nested Loop | star patreen problems ...
 day16:patterns and Numbers in python
 day17:numbers patterns
-day18:
+day18:numbers Program | Prime Numbers | adding Numbers
 day19:
 day20:
 day21:
