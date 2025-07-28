@@ -25,6 +25,7 @@ for i in x:
 print(sum)
 # reverse string
 r=int(input("enter a number:"))
+# r=87
 sum=" "
 while r!=0:
     rem=r%10

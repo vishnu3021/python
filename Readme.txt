@@ -24,7 +24,7 @@ day15: Nested Loop | star patreen problems ...
 day16:patterns and Numbers in python
 day17:numbers patterns
 day18:numbers Program | Prime Numbers | adding Numbers
-day19:
+day19: # number program nd string problems(amstrong number:,Disarium numbers,factrorial,palindrome number:,finding vowles in a string:)
 day20:
 day21:
 day22:
