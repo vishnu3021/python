@@ -25,7 +25,7 @@ day16:patterns and Numbers in python
 day17:numbers patterns
 day18:numbers Program | Prime Numbers | adding Numbers
 day19: # number program nd string problems(amstrong number:,Disarium numbers,factrorial,palindrome number:,finding vowles in a string:)
-day20:
+day20:List Program and bobule stort(sum, max and min numbers,sort method)
 day21:
 day22:
 day23:
