@@ -27,7 +27,7 @@ day18:numbers Program | Prime Numbers | adding Numbers
 day19: # number program nd string problems(amstrong number:,Disarium numbers,factrorial,palindrome number:,finding vowles in a string:)
 day20:List Program and bobule stort(sum, max and min numbers,sort method)
 day21:List problems || dictionaary problems
-day22:
+day22: all type of functions
 day23:
 day24:
 day25:
