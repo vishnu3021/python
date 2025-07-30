@@ -28,7 +28,7 @@ day19: # number program nd string problems(amstrong number:,Disarium numbers,fac
 day20:List Program and bobule stort(sum, max and min numbers,sort method)
 day21:List problems || dictionaary problems
 day22: all type of functions
-day23:
+day23:# adding numbers,# factorial,# fib series numbers
 day24:
 day25:
 day26:
