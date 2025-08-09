@@ -29,7 +29,7 @@ day20:List Program and bobule stort(sum, max and min numbers,sort method)
 day21:List problems || dictionaary problems
 day22: all type of functions
 day23:# adding numbers,# factorial,# fib series numbers
-day24:
+day24:python class members | python objects methods
 day25:
 day26:
 day27:
