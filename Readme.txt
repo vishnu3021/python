@@ -30,7 +30,7 @@ day21:List problems || dictionaary problems
 day22: all type of functions
 day23:# adding numbers,# factorial,# fib series numbers
 day24:python class members | python objects methods
-day25:
+day25: object methods | class methods | static methods
 day26:
 day27:
 day28:
