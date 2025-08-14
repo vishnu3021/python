@@ -31,6 +31,6 @@ day22: all type of functions
 day23:# adding numbers,# factorial,# fib series numbers
 day24:python class members | python objects methods
 day25: object methods | class methods | static methods
-day26:
+day26:multi level | multiple inheritance| super| hiarachical inheritance|hybrid inheritance|# over loading| over riding
 day27:
 day28:
