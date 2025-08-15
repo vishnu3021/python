@@ -33,4 +33,4 @@ day24:python class members | python objects methods
 day25: object methods | class methods | static methods
 day26:multi level | multiple inheritance| super| hiarachical inheritance|hybrid inheritance|# over loading| over riding
 day27:oops conceptfor beginers| what is polymorphism|  overLoading
-day28:
+day28:abstract 
